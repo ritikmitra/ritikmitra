@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=gradient&height=180&width=1&section=header&text=Hey%20Everyone!&fontAlignY=30&fontAlign=20&fontSize=40&desc=I'M%20RITIK%20MITRA&descAlign=14&animation=fadeIn&customColorList=19,1,37,4,3,19,16,19,19,16)
 <p align = "center">
-I am student of Computer Science currently enrolled in Institute of Technology and
+I am student of Computer Science (specialising in AI) currently enrolled in Institute of Technology and
 Management Baroda University mainly focused on software Development with Strong OOPS concept.
+
+Some of my favorite programming languages include Java and Python.
 </p>
 
 
