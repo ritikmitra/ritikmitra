@@ -2,6 +2,8 @@
 <p align = "center">
 I am student of Computer Science currently enrolled in Institute of Technology and
 Management Baroda University mainly focused on software Development with Strong OOPS concept.
+
+Some of my favorite programming languages include Java and Python.
 </p>
 
 
